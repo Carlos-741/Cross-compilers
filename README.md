@@ -1,4 +1,7 @@
 # Cross-compilers
-#a collection of Cross-compilers ^^
-##To quickly download the original corss-compilers click 
-$[Link text](#some-id)
+
+Just using this as a storage for corss compilers ^^
+
+## Getting Started
+
+[original](https://github.com/Carlos-741/Cross-compilers/blob/master/original/download.sh) - To get the original binarys
